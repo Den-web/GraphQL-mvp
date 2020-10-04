@@ -32,7 +32,7 @@ render() {
 
   return (
     <div className={classes.root}>
-      Search
+      Search for branch
     </div>
 );
 }
