@@ -1,66 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa5c3b6f-3d4d-40a6-bbad-8e739c1b73e7" name="Default Changelist" comment="feat: 'Start commit project'">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/Directors/Directors.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/Directors/DirectorsHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/Directors/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsDialog/DirectorsDialog.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsDialog/DirectorsDialogHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsDialog/mutations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsForm/DirectorsForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsForm/DirectorsFormHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsForm/mutations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsForm/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsSearch/DirectorsSearch.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsSearch/DirectorsSearchHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsSearch/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsTable/DirectorsTable.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsTable/DirectorsTableHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsTable/queries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsTable/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/Movies/Movies.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/Movies/MoviesHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/Movies/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesDialog/MoviesDialog.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesDialog/MoviesDialogHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesDialog/mutations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesForm/MoviesForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesForm/MoviesFormHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesForm/mutations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesForm/queries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesForm/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesSearch/MoviesSearch.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesSearch/MoviesSearchHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesSearch/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesTable/MoviesTable.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesTable/MoviesTableHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesTable/queries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesTable/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/Tabs/Tabs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/Tabs/TabsHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/Tabs/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/director.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/movie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/schema/schema.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="fa5c3b6f-3d4d-40a6-bbad-8e739c1b73e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/application/src/components/Search/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/Search/Search.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/application/node_modules/" />
     <ignored path="$PROJECT_DIR$/server/node_modules/" />
@@ -74,17 +16,66 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/src/components/Search/Search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/application/src/components/Search/Search.js" />
+      </list>
+    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/graphql-mvp.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
@@ -97,12 +88,56 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="GraphQL-mvp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/GraphQL-mvp" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="GraphQL-mvp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/GraphQL-mvp" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="application" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="GraphQL-mvp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/GraphQL-mvp" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="application" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="GraphQL-mvp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/GraphQL-mvp" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="application" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="GraphQL-mvp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/GraphQL-mvp" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="application" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Search" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="GraphQL-mvp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/GraphQL-mvp" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="application" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Tabs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,23 +170,42 @@
       <option name="presentableId" value="Default" />
       <updated>1599646471767</updated>
       <workItem from="1599646474078" duration="277000" />
+      <workItem from="1601839699233" duration="527000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: 'Initial develop commit'">
+      <created>1601839825775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601839825776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: '1-new-feature-search add new component search'">
+      <created>1601840143272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601840143272</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: '1-new-feature-search gitignore fix'">
+      <created>1601840189174</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601840189175</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277000" />
+    <option name="totallyTimeSpent" value="804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="442" y="23" width="998" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24974412" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24974412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32899868" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -159,6 +213,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32899868" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -169,7 +228,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 'Start commit project'" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 'Start commit project'" />
+    <MESSAGE value="feat: 'Initial develop commit'" />
+    <MESSAGE value="feat: '1-new-feature-search add new component search'" />
+    <MESSAGE value="feat: '1-new-feature-search gitignore fix'" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: '1-new-feature-search gitignore fix'" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -177,6 +239,37 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/components/Tabs/Tabs.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="49" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/components/Search/Search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
