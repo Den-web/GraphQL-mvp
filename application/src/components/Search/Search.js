@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 class SimpleSearch extends React.Component {
   state = {
     value: 0,
@@ -8,8 +7,10 @@ class SimpleSearch extends React.Component {
 
   handleChange = (event, value) => { this.setState({ value }); };
 
+
 render() {
   const { classes} = this.props;
+
 
   return (
     <div className={classes.root}>
