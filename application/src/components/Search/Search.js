@@ -10,6 +10,7 @@ class SimpleSearch extends React.Component {
 
 render() {
   const { classes} = this.props;
+  const { value } = this.state;
 
   return (
     <div className={classes.root}>
